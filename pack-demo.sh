@@ -11,4 +11,4 @@ clear
 # Put your stuff here
 pe "ls -ltr"
 pe "pack suggest-builders"
-pe "pack build jlafataatpivotal/simple-python --path . --builder --builder heroku/buildpacks:18"
+pe "pack build jlafataatpivotal/simple-python --path . --builder heroku/buildpacks:18"
